@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\piscaled\piscaled.mcppi
+Project1=PiscaLedComBotao.mcppi
+[ActiveProject]
+Index=1

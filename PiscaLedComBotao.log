@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\Luciano Rex\Documents\apostilapic\PiscaLedComBotao.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Luciano Rex\Documents\apostilapic\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "PiscaLedComBotao.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	PiscaLedComBotao.c
+diagnostics: 97	123	Compiled Successfully	PiscaLedComBotao.c
+diagnostics: 0	127	All files Compiled in 110 ms	 
+hint: 0	1144	Used RAM (bytes): 127 (8%)  Free RAM (bytes): 1388 (92%)	Used RAM (bytes): 127 (8%)  Free RAM (bytes): 1388 (92%)
+hint: 0	1144	Used ROM (bytes): 1046 (3%)  Free ROM (bytes): 31722 (97%)	Used ROM (bytes): 1046 (3%)  Free ROM (bytes): 31722 (97%)
+diagnostics: 0	125	Project Linked Successfully	PiscaLedComBotao.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'PiscaLedComBotao.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 14 set 2020, 21:41:51	PiscaLedComBotao.mcppi
